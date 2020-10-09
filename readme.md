@@ -1,10 +1,10 @@
 # Backend Interview Solution
 
-This is a recreation of the code I created during my backend technical interview.
+This is a solution to the question I received during my backend technical interview. This solution was created after the interview as practice.
 
 ## Setup
 
-This project was built using <a href="https://www.ruby-lang.org/en/news/2019/04/17/ruby-2-6-3-released/">Ruby 2.6.3</a>
+This project was built using <a href="https://www.ruby-lang.org/en/news/2019/04/17/ruby-2-6-3-released/">Ruby 2.6.3</a>.
 
 To run the project simply run:
 
